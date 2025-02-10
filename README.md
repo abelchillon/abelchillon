@@ -1,6 +1,9 @@
 <p align="center">
  <img width="100px" src="https://avatars.githubusercontent.com/u/45339034?s=400&u=6cddb232194ccd0377ebceec8e2385298da37706&v=4" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
+ <div id="header" align="right">
+   <img src="https://komarev.com/ghpvc/?username=abelchillon&style=for-the-badge&color=blue" alt=""/>
+ </div>
 </p>
 
 ### Hi there 👋 I'm [Abel Chillón](https://anandmainali.com.np)
@@ -14,25 +17,57 @@ I possess excellent coding skills, as well as the ability to convert requirement
 </p>
 </div>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=abelchillon&style=for-the-badge&color=blue" alt=""/>
-</div>
-
 ### Programming Languages 🌐
 
-| [<img src="https://th.bing.com/th/id/OIP.cR9lTZZuKdpXY5nMjYc6ngHaMg?rs=1&pid=ImgDetMain" alt="Java" width="24">](https://www.java.com/)
-|---|---|---|---|---|---|
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,maven,github,git,gitlab,docker,angular,hibernate&perline=5&size=10)](#)
  
 ### Tools 🛠️
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | many more...
-|---|---|---|---|---|---|---|---|---|
+[![My Skills](https://skillicons.dev/icons?i=postman,idea,eclipse,jenkins,kubernetes,openshift,stackoverflow,vscode&perline=5&size=1000)](#)
 
-<h3> 🤝🏻 Connect with Me </h3>
 
+### Security 🔐
+<div>
+  <ul>
+    <li>
+      <p>JWT - JSON Web Tokens</p>
+    </li>
+    <li>
+      <p>OAuth 2.0 - OpenId Connect</p>
+    </li>
+    <li>
+      <p>API Keys</p>
+    </li>
+    <li>
+      <p>SAML</p>
+    </li>
+  </ul>
+</div>
+
+### Testing 🧪
+<div>
+  <ul>
+    <li>
+      <p>JUnit</p>
+    </li>
+    <li>
+      <p>TDD (Test-Driven Development)</p>
+    </li>
+    <li>
+      <p>Mocking</p>
+    </li>
+    <li>
+      <p>Integration Testing</p>
+    </li>
+    <li>
+      <p>SonarQube - Quality gates</p>
+    </li>
+  </ul>
+</div>
+
+<br>
+
+⭐️ From [@abelchillon](https://github.com/abelchillon)
 <p align="left">
 <a href="https://www.linkedin.com/in/abel-chillon/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabel-chillon%2F?style=social&logoColor=0072b1&label=LinkedIn&labelColor=rgb&color=0072b1"></a>
 </p>
-
-
-⭐️ From [@abelchillon](https://github.com/abelchillon)
